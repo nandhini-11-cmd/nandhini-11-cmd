@@ -37,7 +37,7 @@ Search and view details of movies using OMDB API.
 ## 🌟 About Me  
 - 🎯 3 years Java development experience at **Accenture**  
 - 👩‍👧‍👦 Took a planned career break for childcare, now back to tech with upgraded skills in MERN stack  
-- 📫 Reach me: **your.email@example.com** | [LinkedIn](https://www.linkedin.com/in/your-link)  
+- 📫 Reach me: **nandhini.ks11@gmail.com** | [LinkedIn](https://www.linkedin.com/in/nandhiniks-mern)  
 
 ---
 
