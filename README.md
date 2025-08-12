@@ -61,6 +61,18 @@ Live Demo: [extraordinary-crisp-521c63.netlify.app](https://extraordinary-crisp-
 
 ---
 
+## 🎓 Achievements & Certifications
+
+- **Full Stack Development - MERN Stack (with AI Tools)** – [IITM Pravartak Certified, GUVI](https://v2.zenclass.in/certificateDownload/S4BJhQDDby1OzBOt)
+- **Node.js** – [View Certificate](https://v2.zenclass.in/certificateDownload/5uDMjy30jkPEqPh0)
+- **MongoDB** – [View Certificate](https://v2.zenclass.in/certificateDownload/5zeHwn70nOZ2SvPc)
+- **React.js** – [View Certificate](https://v2.zenclass.in/certificateDownload/ZGilprdN3sFBV0Id)
+- **Advanced JavaScript** – [View Certificate](https://v2.zenclass.in/certificateDownload/NTzrP73O2yn8GZkG)
+- **JavaScript Basics** – [View Certificate](https://v2.zenclass.in/certificateDownload/DCIq9DHeJtrvuqFp)
+- **HTML, CSS, Tailwind CSS** – [View Certificate](https://v2.zenclass.in/certificateDownload/IbT4135SxR8Rbz8u)
+  
+---
+
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
