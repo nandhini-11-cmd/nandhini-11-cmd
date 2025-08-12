@@ -52,10 +52,25 @@ Live Demo: [extraordinary-crisp-521c63.netlify.app](https://extraordinary-crisp-
 
 ---
 
-## 📈 GitHub Stats  
-![Nandhini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nandhini-11-cmd&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nandhini-11-cmd&layout=compact&theme=radical)  
+## 📊 GitHub Stats & Activity
 
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=nandhini-11-cmd&show_icons=true&theme=radical&bg_color=0d1117&title_color=ff6ec7&icon_color=ffd700&text_color=ffffff&hide_border=false&border_radius=8" height="180em" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandhini-11-cmd&layout=compact&theme=radical&bg_color=0d1117&title_color=ff6ec7&text_color=ffffff&hide_border=false&border_radius=8" height="180em" />
+</p>
+
+<p align="center">
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=nandhini-11-cmd&theme=radical&hide_border=false&border_radius=8" height="180em" />
+</p>
+
+<p align="center">
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nandhini-11-cmd&theme=react-dark&hide_border=false&area=true" />
+</p>
 ---
 
 ## 🌟 About Me  
