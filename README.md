@@ -18,19 +18,19 @@
 ## 📌 Featured Projects  
 ### 🍲 [Recipe Sharing Platform](https://your-netlify-link.com) *(MERN Stack)*  
 A feature-rich recipe sharing app with user authentication, recipe ratings, comments, meal planning, favorites, and video tutorials.  
-🔗 [GitHub Repo](https://github.com/yourusername/recipe-sharing-platform)  
+🔗 [GitHub Repo](https://github.com/nandhini-11-cmd/recipeSharingApp)  
 
-### 💰 [Smart Expense Tracker](https://your-netlify-link.com) *(React.js)*  
+### 💰 [Smart Expense Tracker](https://bucolic-druid-7443ff.netlify.app) *(React.js)*  
 Track daily expenses with visual charts and reports.  
 
-### 🎬 [Movie Search App](https://your-netlify-link.com) *(React.js + OMDB API)*  
+### 🎬 [Movie Search App](https://bright-bonbon-041f68.netlify.app) *(React.js + OMDB API)*  
 Search and view details of movies using OMDB API.  
 
 ---
 
 ## 📈 GitHub Stats  
-![Nandhini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+![Nandhini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nandhini-11-cmd&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nandhini-11-cmd&layout=compact&theme=radical)  
 
 ---
 
