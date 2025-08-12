@@ -41,4 +41,4 @@ Search and view details of movies using OMDB API.
 
 ---
 
-💡 *"Code is like humor. When you have to explain it, it’s bad."* 
+💡 *"Good code is its own best documentation."* 
