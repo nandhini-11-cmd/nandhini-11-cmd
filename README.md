@@ -16,15 +16,21 @@
 ---
 
 ## 📌 Featured Projects  
-### 🍲 [Recipe Sharing Platform](https://your-netlify-link.com) *(MERN Stack)*  
+### 🍲 [Recipe Sharing Platform](https://yummyhub-recipes.netlify.app/) *(MERN Stack)*  
 A feature-rich recipe sharing app with user authentication, recipe ratings, comments, meal planning, favorites, and video tutorials.  
 🔗 [GitHub Repo](https://github.com/nandhini-11-cmd/recipeSharingApp)  
 
 ### 💰 [Smart Expense Tracker](https://bucolic-druid-7443ff.netlify.app) *(React.js)*  
 Track daily expenses with visual charts and reports.  
+🔗 [GitHub Repo](https://github.com/nandhini-11-cmd/income_expenses_tracker)
 
 ### 🎬 [Movie Search App](https://bright-bonbon-041f68.netlify.app) *(React.js + OMDB API)*  
-Search and view details of movies using OMDB API.  
+Search and view details of movies using OMDB API. 
+🔗 [GitHub Repo](https://github.com/nandhini-11-cmd/search_movie_app)
+
+### 🛒 [Shopping Kart](https://hilarious-donut-7f43fb.netlify.app) *(React.js)*  
+A simple and responsive shopping cart application with product browsing, cart management, and checkout simulation using React Router.  
+🔗 [GitHub Repo](https://github.com/nandhini-11-cmd/shopify_router)  
 
 ---
 
