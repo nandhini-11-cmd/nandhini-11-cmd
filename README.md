@@ -40,12 +40,12 @@ A dynamic recipe application that allows users to browse, search, and filter rec
 A classic memory card game where players flip cards to find matching pairs. Built using HTML for structure, CSS for styling, and JavaScript (DOM manipulation) for game logic.  
 🔗 [GitHub Repo](https://github.com/nandhini-11-cmd/MINI_PROJECT_1)  
 
-###  Tailwind Landing Page *(HTML | Tailwind CSS)*  
+### 🖥️ Tailwind Landing Page *(HTML | Tailwind CSS)*  
 A fully responsive single landing page created using HTML and Tailwind CSS, based on a Figma design. Designed to look great on all devices.  
 Live Demo: [zesty-dragon-dbba1a.netlify.app](https://zesty-dragon-dbba1a.netlify.app/)  
 🔗 [GitHub Repo](https://github.com/nandhini-11-cmd/GUVI_TAST2_TAILWIND/)
 
-###  HTML/CSS Landing Page *(HTML | CSS)*  
+### 🖥️ HTML/CSS Landing Page *(HTML | CSS)*  
 A single responsive landing page built using HTML and CSS, faithfully translated from a Figma file for flawless display across devices.  
 Live Demo: [extraordinary-crisp-521c63.netlify.app](https://extraordinary-crisp-521c63.netlify.app/)  
 🔗 [GitHub Repo](https://github.com/nandhini-11-cmd/GUVI_ASSIGN1_HTML_CSS/)
