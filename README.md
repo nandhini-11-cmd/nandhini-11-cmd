@@ -1,9 +1,9 @@
 
-# 👋 Hi, I'm Nandhini  
+# Hi, I'm Nandhini  
 
-🚀 **Full Stack Developer (MERN)** | Passionate about building scalable web apps  
-💻 Skilled in **MongoDB | Express.js | React.js | Node.js | JavaScript | Tailwind CSS**  
-🌱 Always learning and exploring new technologies to create impactful solutions.  
+ **Full Stack Developer (MERN)** | Passionate about building scalable web apps  
+ Skilled in **MongoDB | Express.js | React.js | Node.js | JavaScript | Tailwind CSS**  
+ Always learning and exploring new technologies to create impactful solutions.  
    My portfolio : https://nandhiniks-portfolio.netlify.app/
 ---
 
